@@ -1,5 +1,5 @@
-##Getting and Cleaning Data
-#Course Project
+#Getting and Cleaning Data
+##Course Project
 
 You should create one R script called run_analysis.R that does the following.
 
@@ -9,7 +9,7 @@ You should create one R script called run_analysis.R that does the following.
  4. Appropriately labels the data set with descriptive variable names. 
  5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-# Steps in creating the tidy data set
+## Steps in creating the tidy data set
 
  1. Download the UCI HAR datasets to my working directory.
  2. Create a run_analysis.r script file in my work directory.
@@ -21,7 +21,7 @@ You should create one R script called run_analysis.R that does the following.
  8. Create a Merged data set.
  9. Create tidy data set that contains the means of all the columns grouped by subject and activity which is available in this repository.
  
-# Code Book
+## Code Book
 
   The CodeBook.md contains more description about the data and the out data set.
 
